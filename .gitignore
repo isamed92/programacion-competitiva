@@ -1,0 +1,58 @@
+# Compiled object files
+*.o
+*.out
+
+# Executable files
+*.exe
+*.bin
+
+# Compiled libraries
+*.a
+*.lib
+
+# Build directories
+build/
+bin/
+output/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.suo
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.ipch
+*.pch
+*.obj
+*.pdb
+*.idb
+*.manifest
+*.tlog
+*.log
+*.ilk
+*.msi
+*.msp
+*.msm
+*.bak
+*.cache
+*.ilk
+*.ncb
+*.pdb
+*.pgc
+*.pgd
+*.pgn
+*.pgs
+*.pgu
+*.pgv
+*.pgx
+*.pgz
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+*.pyzw
+*.pyzz
