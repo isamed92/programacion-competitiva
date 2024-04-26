@@ -4,7 +4,7 @@ This project contains competitive programming exercises in C++.
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
+1. Clone the repository: `git clone git@github.com:your_fork/programacion-competitiva.git`
 2. Open the project in VSCode: `code /path/to/project`
 3. Install the required extensions:
    - C/C++: [Intellisense, debugging and code](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
